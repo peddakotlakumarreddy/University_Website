@@ -271,6 +271,26 @@ footer
 
 
 }
+.color2
+{
+    color:green;
+
+}
+
+.india
+{
+    margin-left: 20px;
+    
+    height: 100px;
+
+}
+
+.india-font
+{
+    margin-top: 0;
+    color:orangered;
+}
+
 
 
 .Hero 
@@ -301,7 +321,9 @@ footer
 
     transition: transform 0.3s;
 
-    border-radius: 50px;
+    border-radius: 20px;
+
+
 
 }
 

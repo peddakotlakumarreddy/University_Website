@@ -1,0 +1,55 @@
+body
+{
+    background-color: yellow;
+    
+    text-align:center;
+    
+}
+
+.contact
+{
+    font-size: 50px;
+
+    font-weight: bold;
+
+    padding-top:230px;
+}
+
+nav
+
+{
+    background-color: black;
+
+    padding: 20px;
+
+    text-align: right;
+
+}
+
+
+
+nav a   
+
+{
+    color:white;
+
+    text-decoration: none;
+
+    margin-right: 25px;
+
+    font-size: 18px;
+
+    
+
+}
+
+nav a:hover
+
+{
+
+    color:yellow;
+
+
+}
+
+
